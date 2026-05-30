@@ -52,14 +52,6 @@ Objetivos:
 
 ---
 
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LipeS-exe&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipeS-exe&layout=compact&theme=tokyonight)
-
----
-
 ## Contato
 
 - LinkedIn: [Felipe Santos Rocha](www.linkedin.com/in/felipe-santos-rocha-0b30a6353)
